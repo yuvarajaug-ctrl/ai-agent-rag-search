@@ -1,0 +1,9 @@
+# .gitignore
+venv/
+.env
+faiss_store/
+tmp_search/
+__pycache__/
+*.pyc
+text_*.json
+search_results_*.json
